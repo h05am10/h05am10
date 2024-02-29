@@ -1,6 +1,6 @@
 <h1>Hey, I'm Hosam <br/><a href="https://github.com/HosamDaoud">Cyber Security Student</a>
 
-<h2>Cyber Security Projects:</h2>
+<h2>My Write-Ups</h2>
 
 - <b>Red Teaming</b>
   - 
